@@ -57,13 +57,13 @@
   <img src="img/Signs_of_mental_illness.png" />
 </h2>
 
-<h3 align="center" >Threat Level/p>
+<h3 align="center" >Threat Level</h3>
 
 <h2 align="center">
   <img src="img/Threat_level.png" />
 </h2>
 
-<h3 align="center" >Use of Body Camera/p>
+<h3 align="center" >Use of Body Camera </h3>
 
 <h2 align="center">
   <img src="img/Use_of_Body_Camera.png" />
@@ -97,7 +97,7 @@
 
 <h3 align="center" >Black Percentage by State</h3>
 <h2 align="center">
-  <img src="img/Black Percentage by State.png" />
+  <img src="img/Black_Percentage_by_State.png" />
 </h2>
 
 <h3 align="center" >Hispanic Percentage by State</h3>
