@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 pd.set_option('display.max_columns', None)
 """### Read the Data"""
 
-below_poverty_level = pd.read_csv('Pct_People_Below_Poverty_Level.csv', encoding='cp1252')
+below_poverty_level = pd.read_csv('csv\Pct_People_Below_Poverty_Level.csv', encoding='cp1252')
 
 """ Data Exploration & Cleaning """
 print(below_poverty_level.shape)

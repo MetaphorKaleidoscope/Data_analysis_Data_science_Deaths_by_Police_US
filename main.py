@@ -1,7 +1,6 @@
 """
 Extract insights from combining US census data and the Washington Post's database
 on deaths by police in the United States.
-
 """
 
 import pandas as pd
@@ -12,11 +11,11 @@ import calendar
 
 
 pd.set_option('display.max_columns', None)
-"""### Read the Data"""
+""" Read the Data"""
 
 
-deaths_data = pd.read_csv('Deaths_by_Police_US.csv', encoding='cp1252')
-media_income = pd.read_csv('Median_Household_Income_2015.csv', encoding='cp1252')
+deaths_data = pd.read_csv('csv\Deaths_by_Police_US.csv', encoding='cp1252')
+media_income = pd.read_csv('csv\Median_Household_Income_2015.csv', encoding='cp1252')
 
 """ Data Exploration & Cleaning """
 # print(deaths_data.shape)

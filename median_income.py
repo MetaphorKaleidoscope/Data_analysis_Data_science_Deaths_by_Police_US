@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 pd.set_option('display.max_columns', None)
 """### Read the Data"""
 
-media_income = pd.read_csv('Median_Household_Income_2015.csv', encoding='cp1252')
+media_income = pd.read_csv('csv\Median_Household_Income_2015.csv', encoding='cp1252')
 
 """ Data Exploration & Cleaning """
 # print(media_income.shape)
